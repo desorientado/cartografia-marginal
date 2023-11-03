@@ -8,7 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       "PosARQ": "https://posarq.ufsc.br",
-      "Lattes": "http://lattes.cnpq.br/9200565420988518"
+      "Lattes": "http://lattes.cnpq.br/9200565420988518",
       "Instagram": "https://www.instagram.com/_kkkaue/",
     },
   }),
