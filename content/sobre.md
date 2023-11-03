@@ -1,0 +1,5 @@
+---
+title: bio
+draft: "false"
+---
+> [!quote] Aluno regular do Mestrado Acadêmico em Arquitetura e Urbanismo do Programa de Pós-graduação em Arquitetura e Urbanismo da Universidade Federal de Santa Catarina (PósARQ UFSC, 2022) na área de concentração História, Urbanismo e Arquitetura da Cidade. Desenvolve seu trabalho nas temáticas das terras baldias, ruínas arquitetônicas, antigas áreas ferroviárias, apropriações socioespaciais e cartografia social. Graduado em Arquitetura e Urbanismo (UNIP, 2020) e curso técnico em Edificações (ETEC, 2015). Possui interesse nas linhas de pesquisa sobre filosofia, política e urbanismo contemporâneo. Possui experiência com Assistência Técnica em Habitação de Interesse Social (ATHIS) e Regularização Fundiária Social (REURB-S). Além de arquiteto e pesquisador é skatista, videomaker e colagista.
