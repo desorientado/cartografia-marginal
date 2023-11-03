@@ -1,5 +1,8 @@
 ---
-title: Welcome to Quartz
+title: Cartografia Marginal
+draft: "false"
+tags: 
+date: DD-MM-YYYY
 ---
 
 This is a blank Quartz installation.
